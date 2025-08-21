@@ -1,5 +1,9 @@
 # Projeto de Modernização Tecnológica: Aquisição de Notebooks para a Escola.
- ## 1. Identificação do Projeto - **Nome do Projeto:** Modernização Tecnológica da EEMTI Custódio da Silva Lemos - **Instituição:** Escola Municipal EEMTI Custódio da Silva Lemos - **Responsável Técnico:** Francisco Welton da Silva - **Data:** 21 de agosto de 2025
+ ## 1. Identificação do Projeto 
+- **Nome do Projeto:** Modernização Tecnológica da EEMTI Custódio da Silva Lemos
+- **Instituição:** Escola Municipal EEMTI Custódio da Silva Lemos -
+- **Responsável Técnico:** Francisco Welton da Silva
+- - **Data:** 21 de agosto de 2025
 
 ## 1. Resumo Executivo
 A escola atualmente utiliza computadores antigos e limitados, dificultando a aprendizagem e a mobilidade dos alunos. Este projeto propõe a aquisição de 30 notebooks modernos, que permitirão maior flexibilidade, mobilidade e eficiência no ensino, além de reduzir custos de manutenção e consumo de energia. A iniciativa visa modernizar a infraestrutura tecnológica e ampliar as oportunidades de aprendizagem.
@@ -66,4 +70,5 @@ Links de Referência:
 
 ## 8. Considerações Finais
 A aquisição dos notebooks representa um passo estratégico para modernizar a infraestrutura escolar, aumentar a eficiência do processo de ensino-aprendizagem e preparar a instituição para os desafios da educação digital. O investimento proposto é viável, traz benefícios diretos e indiretos e fortalece o compromisso da escola com a inovação tecnológica.
+
 
