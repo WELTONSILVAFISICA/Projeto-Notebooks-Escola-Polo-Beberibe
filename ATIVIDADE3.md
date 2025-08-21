@@ -32,6 +32,7 @@ A aquisição de notebooks permitirá maior dinamismo nas aulas, acesso a difere
 | Portas          | USB 3.0, HDMI     | USB-C, USB 3.1, HDMI |
 
 **Figura 1 – Modelo ilustrativo de notebook educacional** 
+
 ![alt text](image.png) 
 (https://upload.wikimedia.org/wikipedia/commons/3/3a/Dell_Inspiron_15.png)
 
@@ -70,5 +71,6 @@ Links de Referência:
 
 ## 8. Considerações Finais
 A aquisição dos notebooks representa um passo estratégico para modernizar a infraestrutura escolar, aumentar a eficiência do processo de ensino-aprendizagem e preparar a instituição para os desafios da educação digital. O investimento proposto é viável, traz benefícios diretos e indiretos e fortalece o compromisso da escola com a inovação tecnológica.
+
 
 
